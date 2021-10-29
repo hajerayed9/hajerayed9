@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ## Git and GitHub
 git: Git is a version control 
-githup:cloud-based hosting service that lets you manage Git repositories
+githup:githup is cloud-based hosting service that lets you manage Git repositories
