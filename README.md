@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![this is an image](![snapshot of results 350](https://user-images.githubusercontent.com/81968875/139510364-8257dee3-e706-4c72-adee-59e303b23d2a.PNG)
+
+## Git and GitHub
+git: Git is a version control 
+githup:cloud-based hosting service that lets you manage Git repositories
